@@ -10,14 +10,22 @@ This project is simple Lorem ipsum dolor generator.
 	
 ## Excercise List
 The repository contains excercise on:
-* Linear Regression
-* Linear Regression with Multiple variables
-* Logistic Regression
-* Regularization
-* Neural Network Representation
-* Neural Network Learning
-* Support Vector Machines
-* Principal Component Analysis
-* Anamoly Detection
-* Recomender Systems
-* Photo OCR
+* Ex 1
+	- Linear Regression with One Variable
+* Ex 2
+	- Linear Regression with Multiple variables
+* Ex 3
+	- Logistic Regression
+	- Regularization
+* Ex 4
+	- Neural Network Representation
+* Ex 5
+	- Neural Network Learning
+* Ex 6 
+	- Support Vector Machines
+ 	- Principal Component Analysis
+* Ex 7
+	- Anamoly Detection
+	- Recomender Systems
+* Ex 8
+	- Photo OCR
