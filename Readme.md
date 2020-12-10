@@ -2,7 +2,7 @@
 This repository contains the excercises completed on the Machine learning course offered by Coursera. 
 
 ## Summary
-The course covered topics of Supervised Learning and Unsupervised learning. Topics on Linear Regression, Logistic Regression, Neural Network, Regularization, and Support Vector Machines were covered in Supervised Learning. K-means, Principal Component Analysis, Anamoly Detection, and Recommender Systems were also covered.
+The course covered topics on Supervised Learning and Unsupervised learning. Topics of Linear Regression, Logistic Regression, Neural Network, Regularization, and Support Vector Machines were covered in Supervised Learning. Further, K-means, Principal Component Analysis, Anamoly Detection, and Recommender Systems were also covered.
 	
 ## Excercise List
 The repository contains excercise on:
@@ -25,5 +25,4 @@ The repository contains excercise on:
 * [Ex-8](/ex8/)
 	- Anamoly Detection
 	- Recomender Systems
-* [Ex-9](/ex9/)
-	- Photo OCR
+
