@@ -6,24 +6,24 @@ The course covered topics of Supervised Learning and Unsupervised learning. Topi
 	
 ## Excercise List
 The repository contains excercise on:
-* Ex 1 [Ex-1](/ex1/)
+* [Ex-1](/ex1/)
 	- Linear Regression with One Variable
-* Ex 2
+* [Ex-2](/ex2/)
 	- Linear Regression with Multiple variables
-* Ex 3
+* [Ex-3](/ex3/)
 	- Logistic Regression
 	- Regularization
-* Ex 4
+* [Ex-4](/ex4/)
 	- Neural Network Representation
-* Ex 5
+* [Ex-5](/ex5/)
 	- Neural Network Learning
-* Ex 6 
+* [Ex-6](/ex6/)
 	- Support Vector Machines
-* Ex 6
+* [Ex-7](/ex7/)
 	- K-means
  	- Principal Component Analysis
-* Ex 7
+* [Ex-8](/ex8/)
 	- Anamoly Detection
 	- Recomender Systems
-* Ex 8
+* [Ex-9](/ex9/)
 	- Photo OCR
