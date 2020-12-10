@@ -1,13 +1,15 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+# Machine Learning (Coursera)
+Machine learning course on Coursera covers multiple topics on machine learning. This repository has the relevant excercises completd on Matlab.
 
-## General info
+## Table of contents
+* Summary
+* Excercise List
+
+## Summary
 This project is simple Lorem ipsum dolor generator.
 	
-## Technologies
-Project is created with:
+## Excercise List
+The repository contains excercise on:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
